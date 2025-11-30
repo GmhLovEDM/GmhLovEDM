@@ -23,6 +23,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=fff)
 
+---
+
 > ***作为 SeeYouUI 的主要作，我真诚、迫切、由衷地欢迎 你提交任何形式的 Pull Request 来一起完善 SeeYouUI 组件库。🙏***
 
 联系我：[GmhLovEDM@gmail.com](mailto:GmhLovEDM@gmail.com)
