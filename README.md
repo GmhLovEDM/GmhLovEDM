@@ -1,7 +1,5 @@
 ## 你好 👋
 
-[![Mail Badge](https://img.shields.io/badge/-GmhLovEDM@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:GmhLovEDM@gmail.com)](mailto:GmhLovEDM@gmail.com)
----
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### I'm GmhLovEDM
@@ -23,4 +21,4 @@
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
-⭐️ From [GmhLovEDM](https://github.com/GmhLovEDM)
+联系我：[GmhLovEDM@gmail.com](mailto:GmhLovEDM@gmail.com)
