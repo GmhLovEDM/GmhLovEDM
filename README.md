@@ -8,6 +8,7 @@
 - 📌 工作在辽宁
 - 🌱 前端开发工程师
 - ✨ SeeYouUI 作者
+- ✨ 我的博客：[GmhLovEDM.github.io](https://gmhlovedm.github.io/)
 
 ### 🛠 技术栈 | Tech Stack
 
@@ -18,7 +19,6 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=fff)
 ![Rollup](https://img.shields.io/badge/Rollup.js-EC4A3F?logo=rollup.js&logoColor=fff)
 ![PNPM](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)
-![uni-app](https://img.shields.io/badge/uni--app-007AFF?logo=Hugo&logoColor=fff)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=000)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=fff)
