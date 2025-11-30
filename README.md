@@ -18,7 +18,6 @@
 ![Rollup](https://img.shields.io/badge/Rollup.js-EC4A3F?logo=rollup.js&logoColor=fff)
 ![PNPM](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=000)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=fff)
 
 ---
