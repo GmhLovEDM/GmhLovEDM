@@ -7,7 +7,7 @@
 - 💻 计算机专业
 - 📌 工作在辽宁
 - 🌱 前端开发工程师
-- ✨ SeeYouUI 作者
+- ✨ [SeeYouUI](https://github.com/GmhLovEDM/SeeYouUI) 作者
 
 ### 🛠 技术栈 | Tech Stack
 
@@ -22,6 +22,6 @@
 
 ---
 
-> ***作为 SeeYouUI 的主要作者，我真诚、迫切、由衷地欢迎 你提交任何形式的 Pull Request 来一起完善 SeeYouUI 组件库。🙏***
-> > 联系我：[GmhLovEDM@gmail.com](mailto:GmhLovEDM@gmail.com)
-> > 无论是关于 SeeYouUI 的讨论，还是分享一个不错的工作机会，都欢迎随时给我发邮件 📫
+> ***作为 SeeYouUI 的主要作者，我真诚、迫切、由衷地欢迎 你提交任何形式的 [Pull Request](https://github.com/GmhLovEDM/SeeYouUI/pulls) 来一起完善 [SeeYouUI](https://github.com/GmhLovEDM/SeeYouUI) 组件库。🙏***
+> > ***联系我：[GmhLovEDM@gmail.com](mailto:GmhLovEDM@gmail.com)***
+> > ***无论是关于 [SeeYouUI](https://github.com/GmhLovEDM/SeeYouUI/issues) 的讨论，还是分享一个不错的工作机会，都欢迎随时给我发邮件 📫***
