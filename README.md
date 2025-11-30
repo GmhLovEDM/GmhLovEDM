@@ -4,10 +4,10 @@
 
 ### I'm GmhLovEDM
 
-- 计算机专业
-- 🌱 前端开发
-- 🌱 工作在辽宁
-- 💬 SeeYouUI 作者
+- 💻 计算机专业
+- 📌 工作在辽宁
+- 🌱 前端开发工程师
+- ✨ SeeYouUI 作者
 
 ### 🛠 技术栈 | Tech Stack
 
@@ -25,6 +25,6 @@
 
 ---
 
-> ***作为 SeeYouUI 的主要作，我真诚、迫切、由衷地欢迎 你提交任何形式的 Pull Request 来一起完善 SeeYouUI 组件库。🙏***
+> ***作为 SeeYouUI 的主要作者，我真诚、迫切、由衷地欢迎 你提交任何形式的 Pull Request 来一起完善 SeeYouUI 组件库。🙏***
 
 联系我：[GmhLovEDM@gmail.com](mailto:GmhLovEDM@gmail.com)
