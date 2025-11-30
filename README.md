@@ -1,7 +1,6 @@
 ## 你好 👋
-[![博客搭建交流群](https://img.shields.io/badge/博客搭建QQ群-422625065-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
-[![webkettle交流群](https://img.shields.io/badge/webkettle交流群-487063343-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "webkettle交流群")
-[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:joeysiwei@gmail.com)
+
+[![Mail Badge](https://img.shields.io/badge/-GmhLovEDM@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:GmhLovEDM@gmail.com)](mailto:GmhLovEDM@gmail.com)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
@@ -15,7 +14,7 @@
 
 ### 🛠 技术栈 | Tech Stack
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=000)
+![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=000)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=fff)
