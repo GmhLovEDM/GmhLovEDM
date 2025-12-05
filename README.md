@@ -7,7 +7,7 @@
 - 💻 计算机专业 | Computer Science
 - 📌 工作在辽宁 | Working in Liaoning
 - 🌱 前端开发工程师 | Front End Developer
-- ✨ [SeeYouUI](https://github.com/GmhLovEDM/SeeYouUI) 作者
+- ✨ [SeeYouUI](https://github.com/GmhLovEDM/SeeYouUI) 作者 | SeeYouUI Author
 
 ### 🛠 技术栈 | Tech Stack
 
