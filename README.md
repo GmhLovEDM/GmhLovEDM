@@ -1,13 +1,13 @@
 ## 你好 👋
 
-<img align="right" alt="GIF" src="https://github.com/GmhLovEDM/bolgImage/blob/main/seeui.png" />
+<img align="right" src="https://github.com/GmhLovEDM/bolgImage/blob/main/seeui.png" />
 
 ### **I'm GmhLovEDM**
 
-- 💻 计算机专业 ***<sup>Computer Science</sup>***
-- 📌 工作在辽宁 ***<sup>Working in Liaoning</sup>***
-- 🌱 前端开发工程师 ***<sup>Front End Developer</sup>***
-- ✨ [SeeYouUI](https://github.com/GmhLovEDM/SeeYouUI) 作者 ***<sup>SeeYouUI Author</sup>***
+- 💻 计算机专业 ***<sub>Computer Science</sub>***
+- 📌 工作在辽宁 ***<sub>Working in Liaoning</sub>***
+- 🌱 前端开发工程师 ***<sub>Front End Developer</sub>***
+- ✨ [SeeYouUI](https://github.com/GmhLovEDM/SeeYouUI) 作者 ***<sub>SeeYouUI Author</sub>***
 
 ### 🛠 技术栈 | Tech Stack
 
