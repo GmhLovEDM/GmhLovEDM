@@ -13,11 +13,9 @@
 
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=Vue.js&logoColor=fff)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=000)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=fff)
-![Rollup](https://img.shields.io/badge/Rollup.js-EC4A3F?logo=rollup.js&logoColor=fff)
-![PNPM](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=000)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=fff)
 
 ---
