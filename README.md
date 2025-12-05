@@ -4,7 +4,7 @@
 
 ### I'm GmhLovEDM
 
-- 💻 计算机专业 <span style="color: #999;font-size: 12px;">Computer Science</span>
+- 💻 计算机专业 <span style="color: #999; font-size: 12px;">Computer Science</span>
 - 📌 工作在辽宁 Working in Liaoning
 - 🌱 前端开发工程师 Front End Developer
 - ✨ [SeeYouUI](https://github.com/GmhLovEDM/SeeYouUI) 作者 SeeYouUI Author
