@@ -1,6 +1,6 @@
 ## 你好 👋
 
-<img align="right" src="https://github.com/GmhLovEDM/bolgImage/blob/main/seeui.png" width="260" />
+<img align="right" src="https://github.com/GmhLovEDM/bolgImage/blob/main/seeui.png" width="250" />
 
 ### **I'm GmhLovEDM**
 
