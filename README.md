@@ -4,7 +4,7 @@
 
 ### I'm GmhLovEDM
 
-- 💻 计算机专业 <small>Computer Science</small>
+- 💻 计算机专业 ![CS](https://img.shields.io/badge/Computer_Science-999999?style=flat)
 - 📌 工作在辽宁 Working in Liaoning
 - 🌱 前端开发工程师 Front End Developer
 - ✨ [SeeYouUI](https://github.com/GmhLovEDM/SeeYouUI) 作者 SeeYouUI Author
