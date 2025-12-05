@@ -5,7 +5,6 @@
 ### **I'm GmhLovEDM**
 
 - 💻 计算机专业 ***<sub>Computer Science</sub>***
-- 📌 工作在辽宁 ***<sub>Working in Liaoning</sub>***
 - 🌱 前端开发工程师 ***<sub>Front End Developer</sub>***
 - ✨ [SeeYouUI](https://github.com/GmhLovEDM/SeeYouUI) 作者 ***<sub>SeeYouUI Author</sub>***
 
