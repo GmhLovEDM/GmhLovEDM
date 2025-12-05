@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/GmhLovEDM/bolgImage/blob/main/seeui.png" />
 
-### I'm GmhLovEDM
+### **I'm GmhLovEDM**
 
 - 💻 计算机专业 ***<sub>Computer Science</sub>***
 - 📌 工作在辽宁 ***<sub>Working in Liaoning</sub>***
