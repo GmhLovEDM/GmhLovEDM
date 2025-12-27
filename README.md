@@ -17,6 +17,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=fff)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
 
 ---
 
