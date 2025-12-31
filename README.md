@@ -22,7 +22,7 @@
 
 ---
 
-> ***作为 SeeYouUI 的主要作者，我真诚、迫切、由衷地欢迎 你提交任何形式的 [Pull Request](https://github.com/seeyouui/see-u-ui/pulls) 来一起完善 SeeYouUI 组件库。🙏***
+> ***作为 SeeYouUI 的主要作者，我真诚、迫切、由衷地欢迎你提交任何形式的 [Pull Request](https://github.com/seeyouui/see-u-ui/pulls) 来一起完善 SeeYouUI 组件库。🙏***
 > > ***联系我：[GmhLovEDM@gmail.com](mailto:GmhLovEDM@gmail.com)***
 > > ***无论是关于 SeeYouUI 的讨论，还是介绍一个不错的工作机会，都欢迎随时给我发邮件。📫***
 
